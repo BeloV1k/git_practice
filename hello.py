@@ -4,4 +4,4 @@ print("Проверяем staging area")
 print("изменение сделано в Github")
 print("Изменение из клонированного репозитория")
 print("Изменение только в feature-test")
-
+print("Новое изменение в feature-test")
