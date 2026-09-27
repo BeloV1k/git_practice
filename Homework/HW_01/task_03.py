@@ -3,6 +3,6 @@
 time = int(input("Введите любое количество минут: "))
 print(f"{time // 60} часов и {time % 60} минут. ")
 # Пример фактического запуска программы:
-PS C:\User\belok\git_practice\Homework\HW_01> python task_03.py
-Введите любое количество минут: 230
-3 часов и 50 минут.
+#PS C:\User\belok\git_practice\Homework\HW_01> python task_03.py
+#Введите любое количество минут: 230
+#3 часов и 50 минут.

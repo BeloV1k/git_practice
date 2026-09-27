@@ -4,8 +4,8 @@ mile = float(f"{input('Введите целое число миль: ')}.{input
 print(f"{mile} миль это {mile * 1.61:.1f} километров. ")
 
 # Пример фактического запуска программы:
-PS C:\User\belok\git_practice\Homework\HW_01> python task_05.py
-Введите целое число миль: 13
-Введите дробное число миль: 6
-13.6 миль это 21.9 километров.
-PS C:\User\belok\git_practice\Homework\HW_01>
+#PS C:\User\belok\git_practice\Homework\HW_01> python task_05.py
+#Введите целое число миль: 13
+#Введите дробное число миль: 6
+#13.6 миль это 21.9 километров.
+#PS C:\User\belok\git_practice\Homework\HW_01>

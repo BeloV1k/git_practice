@@ -4,7 +4,7 @@ number = int(input("Введите целое число: "))
 
 print(f"Введенное число: {number}, перед ним идет число: {number - 1}, следующее за ним число: {number + 1} ")
 # Пример фактического запуска программы:
-PS C:\User\belok\git_practice\Homework\HW_01> python task_02.py
-Введите целое число: 21
-Введенное число: 21, перед ним идет число: 20, следующее за ним число: 22
-PS C:\User\belok\git_practice\Homework\HW_01>
+#PS C:\User\belok\git_practice\Homework\HW_01> python task_02.py
+#Введите целое число: 21
+#Введенное число: 21, перед ним идет число: 20, следующее за ним число: 22
+#PS C:\User\belok\git_practice\Homework\HW_01>

@@ -12,7 +12,7 @@ print(f"Введенное число: {number}, сумма его цифр: {su
 #print(f"Введенное число: {number}, сумма его цифр: {num1+num2+num3}, произведение его цифр: {num1*num2*num3}")
 
 # Пример фактического запуска программы:
-PS C:\User\belok\git_practice\Homework\HW_01> python task_04.py
-Введите любое трёх значное число: 145
-Введенное число: 145, сумма его цифр: 10, произведение его цифр: 20
-PS C:\User\belok\git_practice\Homework\HW_01>
+#PS C:\User\belok\git_practice\Homework\HW_01> python task_04.py
+#Введите любое трёх значное число: 145
+#Введенное число: 145, сумма его цифр: 10, произведение его цифр: 20
+#PS C:\User\belok\git_practice\Homework\HW_01>
